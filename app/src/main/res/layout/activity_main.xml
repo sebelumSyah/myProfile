@@ -11,7 +11,7 @@
 
     <ImageView
         android:id="@+id/salam"
-        android:layout_width="363dp"
+        android:layout_width="360dp"
         android:layout_height="64dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="3dp"
